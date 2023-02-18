@@ -1,0 +1,40 @@
+body{
+    background-color: #252628;
+    padding-bottom: 20px;
+}
+
+.App {
+    background-color: #252628;
+    height: 100vh;
+
+}
+.task{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.is-done{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    opacity: 0.1;
+
+}
+.charactersRow{
+
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.empty{
+
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Didact Gothic';
+    font-weight: bold;
+    color: #777777;
+
+}

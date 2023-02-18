@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+.header{
+    font-family:'Didact Gothic';
+    font-size:30px;
+    color: #777777;
+}
+.text{
+    font-family: 'Didact Gothic';
+    color: #777777;
+}
+
+@media (max-width:800px ) {
+    .video{
+        display: none;
+    }
+    
+}

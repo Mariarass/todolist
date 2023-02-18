@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    color: #d7d4d4;
+    fontFamily: 'Didact Gothic';
+    height: 55px;
+    padding-left: 10px;
+
+
+}
+.container{
+
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
